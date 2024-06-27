@@ -19,7 +19,7 @@ This code is partially adapted from [ViperGPT](https://github.com/cvlab-columbia
 To setup the environment, you should:
 1. Clone recursively:
 ```bash
-git clone --recurse-submodules git@github.com:shirley-wu/vdebugger.git
+git clone --recurse-submodules git@github.com:likanchuan09171/vdebugger_b.git
 ```
 2. Install pytorch based on your own environment. We installed `torch==2.1.2` with cuda 12.1
 3. Install dependencies:
